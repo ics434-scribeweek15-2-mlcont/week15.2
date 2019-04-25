@@ -7,13 +7,10 @@ DUE April 24, 2019
 
 Team Members:
 
- ` **Neezcha Dinman**
-  
-  **Troy Marcis** 
-  
-  Cassandra Largosa
-  
-  **Brian Mayeshiro**
+ - **Neezcha Dinman**  
+ -  **Troy Marcis** 
+ - Cassandra Largosa
+ - **Brian Mayeshiro**
   
   
   
