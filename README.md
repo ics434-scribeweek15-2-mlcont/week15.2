@@ -9,7 +9,7 @@ Team Members:
 
  - **Neezcha Dinman**  
  -  **Troy Marcis** 
- - Cassandra Largosa
+ - ~~Cassandra Largosa
  - **Brian Mayeshiro**
   
   
