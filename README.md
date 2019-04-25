@@ -6,10 +6,10 @@ April 17, 2019 Wednesay
 DUE April 24, 2019
 
 Team Members:
-  Neezcha Dinman
-  Troy Marcis
-  Cassandra Largosa
-  Brian Mayeshiro
+  Neezcha Dinman    -    Encryption
+  Troy Marcis    -    Machine Learning
+  Cassandra Largosa    -    unable to contact
+  Brian Mayeshiro    -    Scikit-Learn
   
 Sections:
   Machine Learning
