@@ -6,10 +6,16 @@ April 17, 2019 Wednesay
 DUE April 24, 2019
 
 Team Members:
-  **Neezcha Dinman**
+
+ ` **Neezcha Dinman**
+  
   **Troy Marcis** 
+  
   Cassandra Largosa
+  
   **Brian Mayeshiro**
+  
+  
   
 Sections:
   - Machine Learning: Troy
